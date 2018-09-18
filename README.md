@@ -4,6 +4,9 @@ Practice redoing all labs from Java 401 course
 #Sources
 Refresher on Math.random(); [DZone](https://dzone.com/articles/random-number-generation-in-java)
 Review of classmate Panos Kusama's [solution](https://github.com/codefellows-seattle-java-401d1/01-primitives-and-control-flow/pull/7/files)
+Refresher on Thread.sleep [journaldev](https://www.journaldev.com/1020/thread-sleep-java)
+
+
 # ![CF](http://i.imgur.com/7v5ASc8.png) Java Primitives and Control Flow
 
 ## Resources
